@@ -56,13 +56,13 @@ Jahangirnagar University – IIT
 ## 📸 Screenshots
 
 ## 🎫 Tickets
-![Tickets](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshots/1.jpg)
+![Tickets](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshorts/1.jpg)
 
 ## 📄 Filter
-![Filter](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshots/2.jpg)
+![Filter](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshorts/2.jpg)
 
 ## 📇 Contacts
-![Contacts](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshots/3.jpg)
+![Contacts](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshorts/3.jpg)
 
 ## 👤 Profile
-![Profile](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshots/4.jpg)
+![Profile](https://raw.githubusercontent.com/sukanto80/Tickets-Booking/main/assets/Screenshorts/4.jpg)
