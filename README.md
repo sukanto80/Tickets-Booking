@@ -55,13 +55,12 @@ Jahangirnagar University – IIT
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-![Home Screen](assets/Screenshots/1.jpg)
+### 🏠 Tickets
+!(assets/Screenshots/1.jpg)
 
-### 📄 Product Detail Page
-![Product Detail](assets/Screenshots/2.jpg)
-### 📄 Search Page
-![Product Detail](assets/Screenshots/3.jpg)
-### 📄 Category Product Page
-![Product Detail](assets/Screenshots/4.jpg)
-
+### 📄 Filter
+!(assets/Screenshots/2.jpg)
+### 📄 Contacts
+!(assets/Screenshots/3.jpg)
+### 📄 Profile
+!(assets/Screenshots/4.jpg)
